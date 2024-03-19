@@ -1,1 +1,12 @@
-
+*{
+margin: 0;
+padding: 0;
+}
+body{ background: #14150650
+    }
+p{
+text-align: center;
+}
+em strong {
+ color: blue;
+}
